@@ -1,4 +1,4 @@
-Weather App:
+Weather Forecastq App:
 Welcome to the Weather Forecast App, a simple and intuitive tool to check real-time weather conditions and forecasts for any location worldwide.
 
 
