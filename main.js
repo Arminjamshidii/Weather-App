@@ -28,6 +28,10 @@ const imageWeather = [
     name: "Clouds",
     image: "./asset/cloudy.jpg",
   },
+  {name:"Haze",
+  image:"./asset/haze.jpg"
+}
+
 ];
 
 let tempData = [];
